@@ -25,7 +25,7 @@ const codeBtn = document.querySelector('.codeBtn').addEventListener('click', ()=
         } 
         }
     console.log(codeForDecode);
-    console.log('key:');
+    console.log('');
     console.log(key);
     codeMessage.value = code;
 
